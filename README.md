@@ -1,4 +1,18 @@
 # Timely
-Timely is a mobile application being programmed by myself. The goal is to save time for a variety of businesses like restaurants and beauty salons through prescheduled appointments. Many businesses could potentially rely on the application instead of dealing with individual phone calls or spam.
+Welcome to the Timely wiki!
 
-![first](https://github.com/samshaqqur/Timely/blob/master/images/1.png?raw=true)
+This Application is being developed with React Native and Firebase.
+
+Preview of the application:
+
+![Login & SignUp](https://github.com/samshaqqur/Timely/blob/master/images/1.png?raw=true)
+
+![Edit User and Store Information](https://github.com/samshaqqur/Timely/blob/master/images/2.png?raw=true)
+
+![Check Schedule and Reserve](https://github.com/samshaqqur/Timely/blob/master/images/3.png?raw=true)
+
+![Other Features](https://github.com/samshaqqur/Timely/blob/master/images/4.png?raw=true)
+
+![Database](https://github.com/samshaqqur/Timely/blob/master/images/5.png?raw=true)
+
+
