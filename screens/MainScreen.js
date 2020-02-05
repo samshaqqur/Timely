@@ -14,13 +14,8 @@ export default class Login extends React.Component{
     componentWillMount(){
         // Your web app's Firebase configuration
         const firebaseConfig = {
-          apiKey: "AIzaSyCtWThQrA9S1NKCJvhrQa_SSAmzimcRr9Q",
-          authDomain: "timely-285ab.firebaseapp.com",
-          databaseURL: "https://timely-285ab.firebaseio.com",
-          projectId: "timely-285ab",
-          storageBucket: "timely-285ab.appspot.com",
-          messagingSenderId: "495290350370",
-          appId: "1:495290350370:web:259017b4a0f13cef87037b"
+          apiKey: "Your_APIkey",
+          
         };
       // Initialize Firebase
       firebase.initializeApp(firebaseConfig);
@@ -30,7 +25,7 @@ export default class Login extends React.Component{
       return (
       
         <ImageBackground
-            source={require('/Users/samuelshaqqur/Desktop/Timely/assets/Welcome.jpg')}
+            source={require('/Users/Desktop/Timely/assets/Welcome.jpg')}
             style={styles.background}
           >
             <View style={styles.button}>
